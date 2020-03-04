@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "676232010416",
+    "firebase_url": "https://reflectlyfiv.firebaseio.com",
+    "project_id": "reflectlyfiv",
+    "storage_bucket": "reflectlyfiv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676232010416:android:22e774dfec4a54b2a77975",
+        "android_client_info": {
+          "package_name": "com.xk.reflectly.reflectly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676232010416-k7s5rp71818hk41dp69bsjp1sla3qpbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI-5qUhLhhLw82Ntr-D63ucm2ZDoCciZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676232010416-k7s5rp71818hk41dp69bsjp1sla3qpbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
